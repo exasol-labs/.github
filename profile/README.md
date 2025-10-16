@@ -1,4 +1,4 @@
-**Welcome to the Exasol labs!**
+ **Welcome to the Exasol labs!**
 
 `exasol-labs` is the GitHub organization where the Exasol community shares experimental and educational projects.
 

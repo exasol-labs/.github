@@ -1,0 +1,72 @@
+# ------------------------------
+# IDEs / Editors
+# ------------------------------
+# IntelliJ IDEA / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Vim
+*~
+.*.swp
+.*.swo
+.sw?
+Session.vim
+
+# ------------------------------
+# Logs and diagnostics
+# ------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# PIDs
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ------------------------------
+# OS / File system clutter
+# ------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+# ------------------------------
+# Build artifacts (common)
+# ------------------------------
+dist/
+build/
+out/
+target/
+
+# ------------------------------
+# Temporary files
+# ------------------------------
+*.tmp
+*.temp
+tmp/
+.temp/
